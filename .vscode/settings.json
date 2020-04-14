@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/prajwalbhati/.virtualenvs/cv-py3/bin/python3.7",
+    "python.linting.pylintEnabled": true,
+    "python.linting.mypyEnabled": false,
+    "python.linting.enabled": true
+}
